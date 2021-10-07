@@ -1,7 +1,7 @@
-<?php require_once("koneksi.php");
-    if (!isset($_SESSION)) {
-        session_start();
-    } ?>
+<?//php require_once("koneksi.php");
+    //if (!isset($_SESSION)) {
+    //    session_start();
+    //} //?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
